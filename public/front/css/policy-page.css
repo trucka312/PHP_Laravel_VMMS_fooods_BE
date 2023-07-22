@@ -1,0 +1,15 @@
+.larger-text {
+  font-size: 40px;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#content {
+  background-color: aliceblue;
+  height: auto;
+  width: 70%;
+  margin: auto;
+}
+#content h1 {
+  text-align: center;
+}

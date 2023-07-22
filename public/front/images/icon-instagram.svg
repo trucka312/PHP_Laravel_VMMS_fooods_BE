@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1057" data-name="Rectangle 1057" width="14" height="14" transform="translate(1168 6026)" fill="#f2b94c" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_73" data-name="Mask Group 73" transform="translate(-1168 -6026)" clip-path="url(#clip-path)">
+    <g id="instagram" transform="translate(1168 6026)">
+      <g id="Group_1989" data-name="Group 1989" transform="translate(10.73 2.591)">
+        <g id="Group_1988" data-name="Group 1988">
+          <path id="Path_203" data-name="Path 203" d="M11.07,2.591a.34.34,0,1,0,.34.34A.34.34,0,0,0,11.07,2.591Z" transform="translate(-10.73 -2.591)" fill="#f2b94c"/>
+        </g>
+      </g>
+      <g id="Group_1991" data-name="Group 1991" transform="translate(3.987 3.987)">
+        <g id="Group_1990" data-name="Group 1990">
+          <path id="Path_204" data-name="Path 204" d="M7,3.987A3.013,3.013,0,1,0,10.013,7,3.017,3.017,0,0,0,7,3.987Z" transform="translate(-3.987 -3.987)" fill="#f2b94c"/>
+        </g>
+      </g>
+      <g id="Group_1993" data-name="Group 1993">
+        <g id="Group_1992" data-name="Group 1992">
+          <path id="Path_205" data-name="Path 205" d="M10.162,0H3.838A3.842,3.842,0,0,0,0,3.838v6.324A3.842,3.842,0,0,0,3.838,14h6.324A3.842,3.842,0,0,0,14,10.162V3.838A3.842,3.842,0,0,0,10.162,0ZM7,10.84A3.84,3.84,0,1,1,10.84,7,3.844,3.844,0,0,1,7,10.84ZM11.07,4.1A1.167,1.167,0,1,1,12.236,2.93,1.168,1.168,0,0,1,11.07,4.1Z" fill="#f2b94c"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
